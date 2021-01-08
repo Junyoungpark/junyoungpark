@@ -1,5 +1,7 @@
 ### Hope to be a nice Industrial Enginner 👋
 
+![I put it my mouth](https://i.ytimg.com/vi/T_eLZegK45k/maxresdefault.jpg)
+
 <!--
 **Junyoungpark/junyoungpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
