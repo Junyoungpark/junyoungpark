@@ -1,4 +1,4 @@
-### Hope to be a nice Industrial Enginner 👋
+### Hope to be a nice Industrial Engineer 👋
 
 <!--
 **Junyoungpark/junyoungpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
