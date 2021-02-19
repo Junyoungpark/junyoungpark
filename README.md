@@ -1,5 +1,7 @@
 ### Hope to be a nice Industrial Engineer 👋
 
+![Junyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junyoungpark&show_icons=true&theme=dracula)
+
 <!--
 **Junyoungpark/junyoungpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
