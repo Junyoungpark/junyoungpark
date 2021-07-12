@@ -1,4 +1,6 @@
 ### Hope to be a nice Industrial Engineer 👋
+### and want to know the mind of learning machines 🤔
+
 
 ![Junyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junyoungpark&show_icons=true&theme=dracula)
 
