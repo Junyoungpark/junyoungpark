@@ -1,5 +1,4 @@
-### Hope to be a nice Industrial Engineer 👋
-### and want to know the mind of learning machines 🤔
+### Modeling and decision-making on networked systems via GNN and RL 👋
 
 
 ![Junyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junyoungpark&show_icons=true&theme=dracula)
