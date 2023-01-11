@@ -3,6 +3,8 @@
 
 ![Junyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junyoungpark&show_icons=true&theme=dracula)
 
+![I put it my mouth](https://i.ytimg.com/vi/T_eLZegK45k/maxresdefault.jpg)
+
 <!--
 **Junyoungpark/junyoungpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
